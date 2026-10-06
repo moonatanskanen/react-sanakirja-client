@@ -1,0 +1,35 @@
+.translator-boxes {
+  display: flex;
+  gap: 20px;
+}
+
+.translator-arrow {
+  align-self: center;
+  margin-top: 3rem;
+  font-size: 2rem;
+}
+
+.translator-header {
+  font-weight: bold;
+  font-size: xx-large;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.translator-little-headers {
+  text-decoration: underline;
+}
+
+.translator-button {
+  align-self: center;
+  font-size: xx-large;
+  margin-top: 3rem;
+}
+
+.newWord {
+  margin-top: 5rem;
+}
+
+.tiny-message {
+  font-size: medium;
+}
